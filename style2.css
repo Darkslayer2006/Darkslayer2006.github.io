@@ -94,7 +94,7 @@ p:nth-child(10) {
 }
 
 .delayed-effect {
-  animation: delayAnimation 7.2s;
+  animation: delayAnimation 7.5s;
 }
 
 @keyframes delayAnimation {
