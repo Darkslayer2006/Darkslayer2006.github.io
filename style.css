@@ -181,12 +181,12 @@ border-radius: 4%;
 }
 
 .mainimage p{
-text-align: center;
-margin-top: 10%;
-margin-right: 10%;
-font-size: 120%;
-text-decoration: none;
-color: snow;
+  text-align: center;
+  margin-top: 15%;
+  margin-right: 100%;
+  font-size: 100%;
+  text-decoration: none;
+  color: snow;
 }
 
 .mainimage a{
