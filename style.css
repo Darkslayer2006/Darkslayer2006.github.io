@@ -310,3 +310,15 @@ transition: top 0.3s, opacity 0.3s;
 top: 115%;
 opacity: 1;
 }
+
+.image p{
+  color: white;
+  font-size: 20px;
+  text-align: center;
+}
+
+.image h2{
+  color: white;
+  margin: 0;
+  text-align: center;
+}
